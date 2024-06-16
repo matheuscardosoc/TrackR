@@ -16,8 +16,8 @@ Projeto feito ao acompanhar o curso do professor Luis Felipe (@LuisDev), direcio
 - Cadastro de Atualização de Pacote
 - Notificação por E-mail
 
-### Link para a playlist do curso do professor @LuisDev
+###### Link para a playlist do curso do professor @LuisDev
 - https://www.youtube.com/playlist?list=PLI2XdbZhEq4l-nnF4bfzsUBnnZXTtcV1D
 
-### Link GitHub do professor @LuisDev
+###### Link GitHub do professor @LuisDev
 - https://github.com/luisdeol
